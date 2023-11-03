@@ -1,0 +1,82 @@
+{
+    "cards": [
+      {
+        "Name": "contact",
+        "left": "true",
+        "right": "true",
+        "up": "true",
+        "down": "true"
+      },
+      {
+        "Name": "Education",
+        "left": "false",
+        "right": "false",
+        "up": "true",
+        "down": "true"
+      },
+      {
+        "Name": "Git hub",
+        "left": "false",
+        "right": "true",
+        "up": "true",
+        "down": "false"
+      },
+      {
+        "Name": "Hobbies",
+        "left": "false",
+        "right": "true",
+        "up": "false",
+        "down": "true"
+      },
+      {
+        "Name": "languages",
+        "left": "true",
+        "right": "false",
+        "up": "false",
+        "down": "true"
+      },
+      {
+        "Name": "Mutant Advanced",
+        "left": "true",
+        "right": "false",
+        "up": "false",
+        "down": "false"
+      },
+      {
+        "Name": "Nucleus Bellum",
+        "left": "false",
+        "right": "false",
+        "up": "false",
+        "down": "true"
+      },
+      {
+        "Name": "Personal Information",
+        "left": "true",
+        "right": "false",
+        "up": "true",
+        "down": "false"
+      },
+      {
+        "Name": "Quantum Enclave",
+        "left": "false",
+        "right": "true",
+        "up": "false",
+        "down": "false"
+      },
+      {
+        "Name": "Quboo",
+        "left": "false",
+        "right": "false",
+        "up": "true",
+        "down": "false"
+      },
+      {
+        "Name": "Work Experience",
+        "left": "true",
+        "right": "true",
+        "up": "false",
+        "down": "false"
+      }
+    ]
+  }
+  
