@@ -1,0 +1,23 @@
+*{
+    margin: 0 0;
+}
+body{
+    background-image: url("../img/back.jpg");
+    background-repeat: no-repeat;
+    height:100vh;
+    background-size: 100%;
+}
+.tile{
+    border: 2px solid black;
+    height: 264px;
+    width: 189px;
+    margin: 0 0;
+    padding: 0 0;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.container{
+    width: 756px;
+}
